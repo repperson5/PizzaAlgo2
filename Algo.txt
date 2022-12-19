@@ -1,0 +1,5 @@
+Open Pizza App
+Choose Pizza Type
+Add Topping(s)
+Choose Side(s) and Drink (s)
+Choose Paymemt Method and Pay
