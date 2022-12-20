@@ -6,3 +6,4 @@ Choose Paymemt Method and Pay
 Pick up Pizza
 Drive Home
 Eat PizzaClean Kitchen
+Fall asleep
