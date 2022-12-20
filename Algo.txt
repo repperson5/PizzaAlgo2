@@ -3,3 +3,6 @@ Choose Pizza Type
 Add Topping(s)
 Choose Side(s) and Drink (s)
 Choose Paymemt Method and Pay
+Pick up Pizza
+Drive Home
+Eat PizzaClean Kitchen
